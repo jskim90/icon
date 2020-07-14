@@ -1,2 +1,2 @@
 # icon dataset
-Lightweight Method for Malware Search based on Icon Similarity
+Survey_Malware Search based on Icon Similarity
