@@ -1,2 +1,2 @@
 # icon dataset
-Survey: Malware Search based on Icon Similarity
+Evaluation of Image Similarity Algorithms for Malware Fake-Icon Detection
